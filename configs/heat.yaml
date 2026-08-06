@@ -1,0 +1,16 @@
+equation: heat
+
+training:
+  epochs: 5000
+  learning_rate: 0.001
+  collocation_points: 1000
+
+network:
+  hidden_layers: 4
+  hidden_units: 64
+
+optimizer:
+  type: adam
+
+physics:
+  wave_speed: 1.0

@@ -1,0 +1,16 @@
+equation: burgers
+
+training:
+  epochs: 8000
+  learning_rate: 0.001
+  collocation_points: 2000
+
+network:
+  hidden_layers: 4
+  hidden_units: 64
+
+optimizer:
+  type: adam
+
+physics:
+  viscosity: 0.00318309886

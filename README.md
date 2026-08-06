@@ -31,8 +31,7 @@ The project is designed with a modular architecture so new PDEs can be added wit
 | Heat Equation | ✓ |
 | Wave Equation | ✓ |
 | Burgers Equation | ✓ |
-| Laplace Equation | Planned |
-| Poisson Equation | Planned |
+
 
 ---
 
